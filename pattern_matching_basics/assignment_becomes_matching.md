@@ -13,7 +13,7 @@ token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZW50X2lkIjoxNzgyNywiY29udGVu
 title: >-
   Assignment becomes Matching
 description: >-
-  Matching
+  Matching is the new assignment
 ---
 
 ### The concept of assignment is generally one of the first things we learn in programming
