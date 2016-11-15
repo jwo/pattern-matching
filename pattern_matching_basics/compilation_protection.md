@@ -13,7 +13,7 @@ token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZW50X2lkIjoxNzgzMCwiY29udGVu
 title: >-
   Compilation Protection
 description: >-
-  Protections
+  No more forgetting about a particuluar path
 ---
 
 ### Most of my code isn't recursion though, so how is this used in REALLIFE™

@@ -13,7 +13,7 @@ token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZW50X2lkIjoxNzgyOCwiY29udGVu
 title: >-
   Conditionals, Evolved
 description: >-
-  Conditionals are over
+  Conditionals are sooooo over
 ---
 
 ### After assignment, we generally learn about "control-flow". And we generally learn about If/Else
